@@ -9,8 +9,8 @@ Twitter: @rich_clark
 
 body {
     line-height:1;
-    background: black;
-    color: white;
+    background: #000000;
+    color: #ffffff;
     font-family: "Lucida Grande", sans-serif;
 }
 
@@ -63,7 +63,7 @@ div {
 #yellow,
 #h2,
 #p {
-    color:black ;
+    color:#000000 ;
 }
 
 #yellow,
